@@ -1,2 +1,1 @@
-*Makefile linguist-detectable=false
-*.c linguist-language=C
+*.Makefile linguist-detectable=false
