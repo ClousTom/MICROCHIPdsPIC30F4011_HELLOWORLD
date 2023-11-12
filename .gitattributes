@@ -1,1 +1,2 @@
-*.ipynb linguist-language= Makefile
+*Makefile linguist-detectable=false
+*.c linguist-language=C
